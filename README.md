@@ -2,7 +2,7 @@
 
 **Tasty Delight** is a modern and visually appetizing food website crafted using **HTML5**, **CSS3**, **JavaScript**, and **Tailwind CSS**. Designed with a vibrant and energetic theme of **orange**, **red**, and **white**, this project provides an immersive, fast, and responsive user experience—perfect for food enthusiasts and restaurant showcases.
 
-![Tasty Delight Banner](Food Website.png)
+![Tasty Delight Banner](Foodwebsite.png)
  <!-- Optional: replace with your actual image -->
 
 ---
@@ -60,7 +60,7 @@ _(https://sahilrajput47.github.io/Food-Website/)_
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![](./assets/images/desktop-view.png) | ![](./assets/images/mobile-view.png) |
+| ![](Foodwebsite.png) | ![](./assets/images/mobile-view.png) |
 
 _(Replace with actual images from your project)_
 

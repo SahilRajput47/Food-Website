@@ -62,8 +62,6 @@ _(https://sahilrajput47.github.io/Food-Website/)_
 |-------------|
  | ![](Mobile.jpg) |
 
-_(Replace with actual images from your project)_
-
 ---
 
 ## 🧪 Getting Started

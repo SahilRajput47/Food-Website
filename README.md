@@ -58,9 +58,9 @@ _(https://sahilrajput47.github.io/Food-Website/)_
 
 ## 🖼️ Screenshots
 
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![](Foodwebsite.png) | ![](Mobile.jpg) |
+| Mobile View |
+|-------------|
+ | ![](Mobile.jpg) |
 
 _(Replace with actual images from your project)_
 

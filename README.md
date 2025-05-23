@@ -60,7 +60,7 @@ _(https://sahilrajput47.github.io/Food-Website/)_
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![](Foodwebsite.png) | ![](./assets/images/mobile-view.png) |
+| ![](Foodwebsite.png) | ![](Mobile.jpg) |
 
 _(Replace with actual images from your project)_
 
